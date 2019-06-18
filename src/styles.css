@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: black;
+}
+.input {
+  width: 25rem;
+}
+.input2 {
+  width: 20rem;
+}
+.btn {
+  width: 5rem;
+}
+.picture {
+  width: 25rem;
+  background: white;
+  margin: auto;
+}
+img {
+  width: 25rem;
+}
